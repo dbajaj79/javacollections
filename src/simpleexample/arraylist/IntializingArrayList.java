@@ -1,6 +1,5 @@
-package simpleexample;
+package simpleexample.arraylist;
 
-import java.lang.reflect.Array;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -15,10 +14,8 @@ public class IntializingArrayList {
         printArraylistUsingForEach(names);
     }
 
-   static void printArraylistUsingForEach(List<String> stringList)
-    {
-        for(String value:stringList)
-        {
+    static void printArraylistUsingForEach(List<String> stringList) {
+        for (String value : stringList) {
             System.out.println(value);
         }
     }

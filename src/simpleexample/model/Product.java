@@ -2,7 +2,7 @@ package simpleexample.model;
 
 public class Product {
 
-    private String  name;
+    private String name;
     private String manfacture;
     private int price;
     private String type;
