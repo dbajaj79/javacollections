@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ea09e3f9-7518-4ab0-8437-6cf9e5d9cdb2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/simpleexample/ArrayListWithGenericAndWithoutTypeSafety.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/simpleexample/model/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/simpleexample/model/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/simpleexample/model/CosntructorsofArraysList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -31,14 +30,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/simpleexample/ArrayListWithGenericAndWithoutTypeSafety.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="181">
-              <caret line="17" column="28" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
+            <state relative-caret-position="170">
+              <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/simpleexample/model/CosntructorsofArraysList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="215">
+              <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
             </state>
           </provider>
         </entry>
@@ -107,6 +115,7 @@
         <option value="$PROJECT_DIR$/src/simpleexample/model/Person.java" />
         <option value="$PROJECT_DIR$/src/simpleexample/model/Product.java" />
         <option value="$PROJECT_DIR$/src/simpleexample/ArrayListWithGenericAndWithoutTypeSafety.java" />
+        <option value="$PROJECT_DIR$/src/simpleexample/model/CosntructorsofArraysList.java" />
       </list>
     </option>
   </component>
@@ -144,6 +153,13 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="simpleexample" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="javacollections" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javacollections" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="simpleexample" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -167,13 +183,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ArrayListWithGenericAndWithoutTypeSafety">
+  <component name="RunManager" selected="Application.CosntructorsofArraysList">
     <configuration name="ArrayListWithGenericAndWithoutTypeSafety" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="simpleexample.ArrayListWithGenericAndWithoutTypeSafety" />
       <module name="javacollections" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="simpleexample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CosntructorsofArraysList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="simpleexample.model.CosntructorsofArraysList" />
+      <module name="javacollections" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="simpleexample.model.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -196,6 +225,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CosntructorsofArraysList" />
         <item itemvalue="Application.ArrayListWithGenericAndWithoutTypeSafety" />
         <item itemvalue="Application.IntializingArrayList" />
       </list>
@@ -300,11 +330,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/simpleexample/ArrayListWithGenericAndWithoutTypeSafety.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="181">
-          <caret line="17" column="28" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
+        <state relative-caret-position="170">
+          <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/simpleexample/model/CosntructorsofArraysList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
         </state>
       </provider>
     </entry>
