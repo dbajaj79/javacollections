@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ea09e3f9-7518-4ab0-8437-6cf9e5d9cdb2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/simpleexample/arraylist/methodsexample/ConversionFromArrayToCollection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simpleexample/arraylist/methodsexample/ConversionFromArrayToCollection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/simpleexample/arraylist/methodsexample/AddElementOnGivenIndexAndReplaceElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simpleexample/arraylist/methodsexample/AddElementOnGivenIndexAndReplaceElement.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -52,23 +52,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/simpleexample/arraylist/methodsexample/AddElementOnGivenIndexAndReplaceElement.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="96">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="133">
+              <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/simpleexample/arraylist/methodsexample/ConversionFromArrayToCollection.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="49" column="42" selection-start-line="49" selection-start-column="42" selection-end-line="49" selection-end-column="42" />
+            <state relative-caret-position="140">
+              <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -164,9 +161,9 @@
         <option value="$PROJECT_DIR$/src/simpleexample/arraylist/methodsexample/AddAndRemoveCollectionData.java" />
         <option value="$PROJECT_DIR$/src/simpleexample/arraylist/methodsexample/RemoveAllAndRotainAll.java" />
         <option value="$PROJECT_DIR$/src/simpleexample/arraylist/methodsexample/RemoveAllAndRetainAll.java" />
-        <option value="$PROJECT_DIR$/src/simpleexample/arraylist/methodsexample/AddElementOnGivenIndexAndReplaceElement.java" />
         <option value="$PROJECT_DIR$/src/simpleexample/arraylist/methodsexample/SwappingAndSubListing.java" />
         <option value="$PROJECT_DIR$/src/simpleexample/arraylist/methodsexample/ConversionFromArrayToCollection.java" />
+        <option value="$PROJECT_DIR$/src/simpleexample/arraylist/methodsexample/AddElementOnGivenIndexAndReplaceElement.java" />
       </list>
     </option>
   </component>
@@ -242,7 +239,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ConversionFromArrayToCollection">
+  <component name="RunManager" selected="Application.AddElementOnGivenIndexAndReplaceElement">
     <configuration name="AddAndRemoveCollectionData" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="simpleexample.arraylist.methodsexample.AddAndRemoveCollectionData" />
       <module name="javacollections" />
@@ -256,8 +253,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ContainAndContainsAll" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="simpleexample.arraylist.methodsexample.ContainAndContainsAll" />
+    <configuration name="AddElementOnGivenIndexAndReplaceElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="simpleexample.arraylist.methodsexample.AddElementOnGivenIndexAndReplaceElement" />
       <module name="javacollections" />
       <extension name="coverage">
         <pattern>
@@ -310,11 +307,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AddElementOnGivenIndexAndReplaceElement" />
         <item itemvalue="Application.ConversionFromArrayToCollection" />
         <item itemvalue="Application.SwappingAndSubListing" />
         <item itemvalue="Application.RemoveAllAndRetainAll" />
         <item itemvalue="Application.AddAndRemoveCollectionData" />
-        <item itemvalue="Application.ContainAndContainsAll" />
       </list>
     </recent_temporary>
   </component>
@@ -344,7 +341,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3295711" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3295711" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -461,16 +458,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/simpleexample/arraylist/methodsexample/AddElementOnGivenIndexAndReplaceElement.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/simpleexample/arraylist/methodsexample/SwappingAndSubListing.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
@@ -483,11 +470,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/simpleexample/arraylist/methodsexample/ConversionFromArrayToCollection.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="49" column="42" selection-start-line="49" selection-start-column="42" selection-end-line="49" selection-end-column="42" />
+        <state relative-caret-position="140">
+          <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/simpleexample/arraylist/methodsexample/AddElementOnGivenIndexAndReplaceElement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
         </state>
       </provider>
     </entry>
