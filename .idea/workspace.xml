@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ea09e3f9-7518-4ab0-8437-6cf9e5d9cdb2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/simpleexample/arraylist/cursors/EnumerationCursor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/simpleexample/arraylist/cursors/IteratorCursor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/simpleexample/arraylist/cursors/ListIteratorCursor.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -52,14 +53,35 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/simpleexample/arraylist/cursors/EnumerationCursor.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="215">
-              <caret line="46" column="91" selection-start-line="46" selection-start-column="91" selection-end-line="46" selection-end-column="91" />
+            <state relative-caret-position="143">
+              <caret line="45" column="8" lean-forward="true" selection-start-line="45" selection-start-column="8" selection-end-line="45" selection-end-column="8" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/simpleexample/arraylist/cursors/IteratorCursor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="34" column="36" selection-start-line="34" selection-start-column="36" selection-end-line="34" selection-end-column="36" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/simpleexample/arraylist/cursors/ListIteratorCursor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -144,6 +166,8 @@
         <option value="$PROJECT_DIR$/src/simpleexample/arraylist/methodsexample/ConversionFromArrayToCollection.java" />
         <option value="$PROJECT_DIR$/src/simpleexample/arraylist/methodsexample/AddElementOnGivenIndexAndReplaceElement.java" />
         <option value="$PROJECT_DIR$/src/simpleexample/arraylist/cursors/EnumerationCursor.java" />
+        <option value="$PROJECT_DIR$/src/simpleexample/arraylist/cursors/ListIteratorCursor.java" />
+        <option value="$PROJECT_DIR$/src/simpleexample/arraylist/cursors/IteratorCursor.java" />
       </list>
     </option>
   </component>
@@ -219,7 +243,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.EnumerationCursor">
+  <component name="RunManager" selected="Application.IteratorCursor">
     <configuration name="AddElementOnGivenIndexAndReplaceElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="simpleexample.arraylist.methodsexample.AddElementOnGivenIndexAndReplaceElement" />
       <module name="javacollections" />
@@ -259,12 +283,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RemoveAllAndRetainAll" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="simpleexample.arraylist.methodsexample.RemoveAllAndRetainAll" />
+    <configuration name="IteratorCursor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="simpleexample.arraylist.cursors.IteratorCursor" />
       <module name="javacollections" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="simpleexample.arraylist.methodsexample.*" />
+          <option name="PATTERN" value="simpleexample.arraylist.cursors.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -287,11 +311,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.IteratorCursor" />
         <item itemvalue="Application.EnumerationCursor" />
         <item itemvalue="Application.AddElementOnGivenIndexAndReplaceElement" />
         <item itemvalue="Application.ConversionFromArrayToCollection" />
         <item itemvalue="Application.SwappingAndSubListing" />
-        <item itemvalue="Application.RemoveAllAndRetainAll" />
       </list>
     </recent_temporary>
   </component>
@@ -321,12 +345,12 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3295711" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3295711" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3295711" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3295711" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" />
@@ -461,8 +485,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/simpleexample/arraylist/cursors/EnumerationCursor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="215">
-          <caret line="46" column="91" selection-start-line="46" selection-start-column="91" selection-end-line="46" selection-end-column="91" />
+        <state relative-caret-position="143">
+          <caret line="45" column="8" lean-forward="true" selection-start-line="45" selection-start-column="8" selection-end-line="45" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/simpleexample/arraylist/cursors/ListIteratorCursor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/simpleexample/arraylist/cursors/IteratorCursor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="34" column="36" selection-start-line="34" selection-start-column="36" selection-end-line="34" selection-end-column="36" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
