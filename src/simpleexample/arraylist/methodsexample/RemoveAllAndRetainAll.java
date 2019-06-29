@@ -3,6 +3,12 @@ package simpleexample.arraylist.methodsexample;
 import java.util.ArrayList;
 
 public class RemoveAllAndRetainAll {
+    /*
+    * RetainAll and RemoveAll
+    * retainAll is used to retainAll the Elements of Collection pass as parameter
+    * and other elements in collection
+    * removeAll is use to remove all the Elements of Collection Data pass as parameter
+    * */
 
     public static void main(String[] args) {
         ArrayList<String>names = new ArrayList<>();
