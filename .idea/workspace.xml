@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ea09e3f9-7518-4ab0-8437-6cf9e5d9cdb2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/simpleexample/arraylist/methodsexample/AddAndRemoveCollectionData.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javacollections/simpleexample/arraylist/methodsexample/ContainAndContainsAll.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javacollections/simpleexample/arraylist/methodsexample/ContainAndContainsAll.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/simpleexample/arraylist/methodsexample/ContainAndContainsAll.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simpleexample/arraylist/methodsexample/ContainAndContainsAll.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/simpleexample/arraylist/methodsexample/RemoveAllAndRetainAll.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -49,11 +46,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/simpleexample/arraylist/methodsexample/AddAndRemoveCollectionData.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="215">
-              <caret line="28" column="87" lean-forward="true" selection-start-line="28" selection-start-column="87" selection-end-line="28" selection-end-column="87" />
+            <state relative-caret-position="177">
+              <caret line="26" column="71" selection-start-line="26" selection-start-column="71" selection-end-line="26" selection-end-column="71" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/simpleexample/arraylist/methodsexample/RemoveAllAndRetainAll.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="181">
+              <caret line="26" column="62" selection-start-line="26" selection-start-column="62" selection-end-line="26" selection-end-column="62" />
             </state>
           </provider>
         </entry>
@@ -144,6 +150,8 @@
         <option value="$PROJECT_DIR$/src/simpleexample/arraylist/methodsexample/ContainAndContainsAll.kt" />
         <option value="$PROJECT_DIR$/src/simpleexample/arraylist/methodsexample/ContainAndContainsAll.java" />
         <option value="$PROJECT_DIR$/src/simpleexample/arraylist/methodsexample/AddAndRemoveCollectionData.java" />
+        <option value="$PROJECT_DIR$/src/simpleexample/arraylist/methodsexample/RemoveAllAndRotainAll.java" />
+        <option value="$PROJECT_DIR$/src/simpleexample/arraylist/methodsexample/RemoveAllAndRetainAll.java" />
       </list>
     </option>
   </component>
@@ -219,7 +227,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.AddAndRemoveCollectionData">
+  <component name="RunManager" selected="Application.RemoveAllAndRetainAll">
     <configuration name="AddAndRemoveCollectionData" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="simpleexample.arraylist.methodsexample.AddAndRemoveCollectionData" />
       <module name="javacollections" />
@@ -239,19 +247,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="simpleexample.arraylist.methodsexample.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ArrayListWithGenericAndWithoutTypeSafety" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="simpleexample.arraylist.ArrayListWithGenericAndWithoutTypeSafety" />
-      <module name="javacollections" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="simpleexample.arraylist.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -285,13 +280,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="RemoveAllAndRetainAll" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="simpleexample.arraylist.methodsexample.RemoveAllAndRetainAll" />
+      <module name="javacollections" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="simpleexample.arraylist.methodsexample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RemoveAllAndRetainAll" />
         <item itemvalue="Application.AddAndRemoveCollectionData" />
         <item itemvalue="Application.ContainAndContainsAll" />
         <item itemvalue="Application.AddAndRemoveSingleObject" />
         <item itemvalue="Application.CosntructorsofArraysList" />
-        <item itemvalue="Application.ArrayListWithGenericAndWithoutTypeSafety" />
       </list>
     </recent_temporary>
   </component>
@@ -312,7 +320,7 @@
     <frame x="-7" y="-7" width="1081" height="575" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25954947" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25954947" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -321,12 +329,12 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3295711" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3295711" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3295711" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3295711" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" />
@@ -426,8 +434,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/simpleexample/arraylist/methodsexample/AddAndRemoveCollectionData.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="215">
-          <caret line="28" column="87" lean-forward="true" selection-start-line="28" selection-start-column="87" selection-end-line="28" selection-end-column="87" />
+        <state relative-caret-position="177">
+          <caret line="26" column="71" selection-start-line="26" selection-start-column="71" selection-end-line="26" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/simpleexample/arraylist/methodsexample/RemoveAllAndRetainAll.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="26" column="62" selection-start-line="26" selection-start-column="62" selection-end-line="26" selection-end-column="62" />
         </state>
       </provider>
     </entry>
