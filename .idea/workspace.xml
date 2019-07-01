@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ea09e3f9-7518-4ab0-8437-6cf9e5d9cdb2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/simpleexample/arraylist/cursors/examplesoflistiterator/AddRemovAndReplaceUsingListItrator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/simpleexample/arraylist/cursors/EnumerationCursor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simpleexample/arraylist/cursors/EnumerationCursor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/simpleexample/arraylist/cursors/IteratorCursor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simpleexample/arraylist/cursors/examplesIteratorCursor/IteratorCursor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/simpleexample/arraylist/cursors/ListIteratorCursor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simpleexample/arraylist/cursors/examplesoflistiterator/ListIteratorCursor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/simpleexample/arraylist/cursors/examplesIteratorCursor/RemoveElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simpleexample/arraylist/cursors/examplesIteratorCursor/RemoveElement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/simpleexample/arraylist/cursors/examplesIteratorCursor/RemoveOddNumberUsingIterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simpleexample/arraylist/cursors/examplesIteratorCursor/RemoveOddNumberUsingIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/simpleexample/arraylist/cursors/GetAllElementUsingThreeCursors.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -56,22 +51,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/simpleexample/arraylist/cursors/EnumerationCursor.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="731">
-              <caret line="44" column="8" selection-start-line="44" selection-start-column="8" selection-end-line="44" selection-end-column="8" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/simpleexample/arraylist/cursors/examplesIteratorCursor/IteratorCursor.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="198">
-              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -91,14 +74,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/simpleexample/arraylist/cursors/examplesoflistiterator/AddRemovAndReplaceUsingListItrator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="164">
-              <caret line="29" column="75" selection-start-line="29" selection-start-column="75" selection-end-line="29" selection-end-column="75" />
+            <state relative-caret-position="147">
+              <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/simpleexample/arraylist/cursors/GetAllElementUsingThreeCursors.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="8" column="23" lean-forward="true" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -189,10 +181,11 @@
         <option value="$PROJECT_DIR$/src/simpleexample/arraylist/cursors/examplesIteratorCursor/RemoveOddNumberUsingIterator.java" />
         <option value="$PROJECT_DIR$/src/simpleexample/arraylist/cursors/examplesIteratorCursor/IteratorCursor.java" />
         <option value="$PROJECT_DIR$/src/simpleexample/arraylist/cursors/examplesoflistiterator/AddRemovAndReplaceUsingListItrator.java" />
+        <option value="$PROJECT_DIR$/src/simpleexample/arraylist/cursors/GetAllElementUsingThreeCursors.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="474" />
     <option name="y" value="195" />
     <option name="width" value="1344" />
@@ -242,15 +235,6 @@
               <item name="arraylist" type="462c0819:PsiDirectoryNode" />
               <item name="cursors" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="javacollections" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javacollections" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="simpleexample" type="462c0819:PsiDirectoryNode" />
-              <item name="arraylist" type="462c0819:PsiDirectoryNode" />
-              <item name="cursors" type="462c0819:PsiDirectoryNode" />
-              <item name="examplesoflistiterator" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -273,7 +257,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.AddRemovAndReplaceUsingListItrator">
+  <component name="RunManager" selected="Application.GetAllElementUsingThreeCursors">
     <configuration name="AddAndRemoveCollectionData" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="simpleexample.arraylist.methodsexample.AddAndRemoveCollectionData" />
       <module name="javacollections" />
@@ -300,12 +284,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ListIteratorCursor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="simpleexample.arraylist.cursors.examplesoflistiterator.ListIteratorCursor" />
+    <configuration name="GetAllElementUsingThreeCursors" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="simpleexample.arraylist.cursors.GetAllElementUsingThreeCursors" />
       <module name="javacollections" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="simpleexample.arraylist.cursors.examplesIteratorCursor.*" />
+          <option name="PATTERN" value="simpleexample.arraylist.cursors.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -341,11 +325,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GetAllElementUsingThreeCursors" />
         <item itemvalue="Application.AddRemovAndReplaceUsingListItrator" />
         <item itemvalue="Application.RemoveOddNumberUsingIterator" />
         <item itemvalue="Application.RemoveElement" />
         <item itemvalue="Application.AddAndRemoveCollectionData" />
-        <item itemvalue="Application.ListIteratorCursor" />
       </list>
     </recent_temporary>
   </component>
@@ -547,7 +531,7 @@
     <entry file="file://$PROJECT_DIR$/src/simpleexample/arraylist/cursors/examplesIteratorCursor/IteratorCursor.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -566,11 +550,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/simpleexample/arraylist/cursors/examplesoflistiterator/AddRemovAndReplaceUsingListItrator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="164">
-          <caret line="29" column="75" selection-start-line="29" selection-start-column="75" selection-end-line="29" selection-end-column="75" />
+        <state relative-caret-position="147">
+          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/simpleexample/arraylist/cursors/GetAllElementUsingThreeCursors.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="8" column="23" lean-forward="true" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
         </state>
       </provider>
     </entry>
