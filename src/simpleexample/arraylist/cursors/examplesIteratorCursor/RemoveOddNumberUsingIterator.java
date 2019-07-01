@@ -10,11 +10,9 @@ public class RemoveOddNumberUsingIterator {
             nummbers.add(i);
         }
 
-        Iterator<Integer>iterator = nummbers.iterator();
-        while (iterator.hasNext())
-        {
-            if(iterator.next()%2!=0)
-            {
+        Iterator<Integer> iterator = nummbers.iterator();
+        while (iterator.hasNext()) {
+            if (iterator.next() % 2 != 0) {
                 iterator.remove();
             }
         }

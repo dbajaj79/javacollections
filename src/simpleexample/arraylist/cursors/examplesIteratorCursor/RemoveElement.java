@@ -11,11 +11,9 @@ public class RemoveElement {
         strings.add("B");
         strings.addElement("C");
 
-        Iterator<String>iterator = strings.iterator();
-        while (iterator.hasNext())
-        {
-            if(iterator.next().equals("B"))
-            {
+        Iterator<String> iterator = strings.iterator();
+        while (iterator.hasNext()) {
+            if (iterator.next().equals("B")) {
                 iterator.remove();
             }
         }

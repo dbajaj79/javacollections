@@ -1,4 +1,4 @@
-package simpleexample.arraylist.cursors;
+package simpleexample.arraylist.cursors.examplesIteratorCursor;
 /*
  * Iterator Cursor
  * 1.version 1.2
@@ -13,7 +13,6 @@ package simpleexample.arraylist.cursors;
  *
  * */
 
-import javax.swing.text.html.HTMLDocument;
 import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.Vector;
@@ -22,7 +21,7 @@ public class IteratorCursor {
 
     public static void main(String[] args) {
         //Normal versions of Collection
-        ArrayList arrayList  = new ArrayList();
+        ArrayList arrayList = new ArrayList();
         arrayList.add("Deepak");
         arrayList.add("Sandeep");
         arrayList.add("C");
@@ -30,15 +29,14 @@ public class IteratorCursor {
         arrayList.add("Chicku");
         arrayList.add("Pinku");
         Iterator iterator = arrayList.iterator();
-        while (iterator.hasNext())
-        {
-            String value = (String)iterator.next();
+        while (iterator.hasNext()) {
+            String value = (String) iterator.next();
             System.out.println(value);
         }
 
         //Generic Version of Collection
 
-        Vector<String>strings = new Vector<>();
+        Vector<String> strings = new Vector<>();
         strings.add("Mango");
         strings.add("Orange");
         strings.add("Banana");
@@ -46,8 +44,7 @@ public class IteratorCursor {
         strings.add("Peach");
         strings.add("Lichi");
         Iterator<String> iterator1 = strings.iterator();
-        while (iterator1.hasNext())
-        {
+        while (iterator1.hasNext()) {
             System.out.println(iterator1.next());
         }
 
