@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ea09e3f9-7518-4ab0-8437-6cf9e5d9cdb2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/simpleexample/arraylist/cursors/GetAllElementUsingThreeCursors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/simpleexample/arraylist/StackExamaple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/simpleexample/linkedlist/ExampleLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -13,6 +15,9 @@
   </component>
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="javacollections" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
@@ -86,47 +91,29 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/simpleexample/arraylist/cursors/GetAllElementUsingThreeCursors.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="8" column="23" lean-forward="true" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+            <state relative-caret-position="174">
+              <caret line="54" column="9" lean-forward="true" selection-start-line="54" selection-start-column="9" selection-end-line="54" selection-end-column="9" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/simpleexample/model/CosntructorsofArraysList.java">
+        <entry file="file://$PROJECT_DIR$/src/simpleexample/arraylist/StackExamaple.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="714">
-              <caret line="42" selection-start-line="42" selection-end-line="42" />
+            <state relative-caret-position="242">
+              <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/simpleexample/model/Person.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/simpleexample/linkedlist/ExampleLinkedList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
-              <folding>
-                <element signature="e#372#373#0" expanded="true" />
-                <element signature="e#399#400#0" expanded="true" />
-                <element signature="e#439#440#0" expanded="true" />
-                <element signature="e#471#472#0" expanded="true" />
-                <element signature="e#503#504#0" expanded="true" />
-                <element signature="e#531#532#0" expanded="true" />
-                <element signature="e#573#574#0" expanded="true" />
-                <element signature="e#607#608#0" expanded="true" />
-                <element signature="e#639#640#0" expanded="true" />
-                <element signature="e#667#668#0" expanded="true" />
-                <element signature="e#709#710#0" expanded="true" />
-                <element signature="e#743#744#0" expanded="true" />
-                <element signature="e#774#775#0" expanded="true" />
-                <element signature="e#801#802#0" expanded="true" />
-                <element signature="e#841#842#0" expanded="true" />
-                <element signature="e#873#874#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="260">
+              <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
             </state>
           </provider>
         </entry>
@@ -182,14 +169,19 @@
         <option value="$PROJECT_DIR$/src/simpleexample/arraylist/cursors/examplesIteratorCursor/IteratorCursor.java" />
         <option value="$PROJECT_DIR$/src/simpleexample/arraylist/cursors/examplesoflistiterator/AddRemovAndReplaceUsingListItrator.java" />
         <option value="$PROJECT_DIR$/src/simpleexample/arraylist/cursors/GetAllElementUsingThreeCursors.java" />
+        <option value="$PROJECT_DIR$/src/simpleexample/arraylist/StackExamaple.java" />
+        <option value="$PROJECT_DIR$/src/simpleexample/linkedlist/ExampleLinkedList.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="474" />
     <option name="y" value="195" />
     <option name="width" value="1344" />
     <option name="height" value="522" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -225,15 +217,7 @@
               <item name="javacollections" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="simpleexample" type="462c0819:PsiDirectoryNode" />
-              <item name="arraylist" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javacollections" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javacollections" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="simpleexample" type="462c0819:PsiDirectoryNode" />
-              <item name="arraylist" type="462c0819:PsiDirectoryNode" />
-              <item name="cursors" type="462c0819:PsiDirectoryNode" />
+              <item name="linkedlist" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -257,13 +241,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.GetAllElementUsingThreeCursors">
-    <configuration name="AddAndRemoveCollectionData" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="simpleexample.arraylist.methodsexample.AddAndRemoveCollectionData" />
+  <component name="RunManager" selected="Application.ExampleLinkedList">
+    <configuration name="AddRemovAndReplaceUsingListItrator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="simpleexample.arraylist.cursors.examplesoflistiterator.AddRemovAndReplaceUsingListItrator" />
       <module name="javacollections" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="simpleexample.arraylist.methodsexample.*" />
+          <option name="PATTERN" value="simpleexample.arraylist.cursors.examplesoflistiterator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -271,12 +255,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AddRemovAndReplaceUsingListItrator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="simpleexample.arraylist.cursors.examplesoflistiterator.AddRemovAndReplaceUsingListItrator" />
+    <configuration name="ExampleLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="simpleexample.linkedlist.ExampleLinkedList" />
       <module name="javacollections" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="simpleexample.arraylist.cursors.examplesoflistiterator.*" />
+          <option name="PATTERN" value="simpleexample.linkedlist.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -297,19 +281,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RemoveElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="simpleexample.arraylist.cursors.examplesIteratorCursor.RemoveElement" />
-      <module name="javacollections" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="simpleexample.arraylist.cursors.examplesIteratorCursor.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="RemoveOddNumberUsingIterator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="simpleexample.arraylist.cursors.examplesIteratorCursor.RemoveOddNumberUsingIterator" />
       <module name="javacollections" />
@@ -323,13 +294,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="StackExamaple" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="simpleexample.arraylist.StackExamaple" />
+      <module name="javacollections" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="simpleexample.arraylist.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ExampleLinkedList" />
+        <item itemvalue="Application.StackExamaple" />
         <item itemvalue="Application.GetAllElementUsingThreeCursors" />
         <item itemvalue="Application.AddRemovAndReplaceUsingListItrator" />
         <item itemvalue="Application.RemoveOddNumberUsingIterator" />
-        <item itemvalue="Application.RemoveElement" />
-        <item itemvalue="Application.AddAndRemoveCollectionData" />
       </list>
     </recent_temporary>
   </component>
@@ -346,25 +330,34 @@
     </task>
     <servers />
   </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1081" height="575" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26444662" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4983165" visible="true" weight="0.26444662" />
+      <window_info id="Structure" order="1" sideWeight="0.5016835" side_tool="true" weight="0.26444662" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Favorites" order="6" side_tool="true" weight="0.32908913" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.6681716" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.22799097" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3295711" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3295711" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3295711" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.3295711" />
@@ -560,8 +553,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/simpleexample/arraylist/cursors/GetAllElementUsingThreeCursors.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="8" column="23" lean-forward="true" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+        <state relative-caret-position="174">
+          <caret line="54" column="9" lean-forward="true" selection-start-line="54" selection-start-column="9" selection-end-line="54" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/simpleexample/arraylist/StackExamaple.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/simpleexample/linkedlist/ExampleLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
         </state>
       </provider>
     </entry>
