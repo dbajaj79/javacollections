@@ -1,4 +1,4 @@
-package simpleexample.hashset;
+package simpleexample.setexamples.linkedset;
 
 import simpleexample.model.Empolyee;
 

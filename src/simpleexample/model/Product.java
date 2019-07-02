@@ -14,6 +14,16 @@ public class Product {
         this.type = type;
     }
 
+    @Override
+    public String toString() {
+        return "Product{" +
+                "name='" + name + '\'' +
+                ", manfacture='" + manfacture + '\'' +
+                ", price=" + price +
+                ", type='" + type + '\'' +
+                '}';
+    }
+
     public String getName() {
         return name;
     }

@@ -1,6 +1,6 @@
 package simpleexample.model;
 
-public class Person {
+public class Person implements Comparable{
     private String name;
     private String email;
     private String phone;
@@ -43,5 +43,21 @@ public class Person {
 
     public void setCity(String city) {
         this.city = city;
+    }
+
+    @Override
+    public String toString() {
+        return "Person{" +
+                "name='" + name + '\'' +
+                ", email='" + email + '\'' +
+                ", phone='" + phone + '\'' +
+                ", city='" + city + '\'' +
+                '}';
+    }
+
+    @Override
+    public int compareTo(Object o) {
+
+        return name.compareTo(((Person)o).getName());
     }
 }

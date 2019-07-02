@@ -1,4 +1,4 @@
-package simpleexample.hashset;
+package simpleexample.setexamples.treeset;
 
 import simpleexample.model.Empolyee;
 
