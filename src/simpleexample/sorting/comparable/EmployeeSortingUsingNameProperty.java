@@ -1,4 +1,4 @@
-package simpleexample.sorting;
+package simpleexample.sorting.comparable;
 
 import simpleexample.model.Empolyee1;
 
