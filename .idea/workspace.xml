@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ea09e3f9-7518-4ab0-8437-6cf9e5d9cdb2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/simpleexample/hashset/HashSetExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/simpleexample/hashset/LinkedSetExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/simpleexample/sorting/comparaotor/ComparatorExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simpleexample/sorting/comparaotor/ComparatorExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/simpleexample/hashset/TreeSetExample.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -58,11 +55,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/simpleexample/hashset/LinkedSetExample.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="260">
+            <state relative-caret-position="83">
               <caret line="27" column="45" selection-start-line="27" selection-start-column="45" selection-end-line="27" selection-end-column="45" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/simpleexample/hashset/TreeSetExample.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="215">
+              <caret line="15" column="36" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -137,18 +146,6 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/simpleexample/sorting/comparable/SortingCustomObjectUsingComparable.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="83">
-              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -206,6 +203,8 @@
         <option value="$PROJECT_DIR$/src/simpleexample/hashset/HashSetExample.java" />
         <option value="$PROJECT_DIR$/src/simpleexample/hashset/LinkedSet.java" />
         <option value="$PROJECT_DIR$/src/simpleexample/hashset/LinkedSetExample.java" />
+        <option value="$PROJECT_DIR$/src/simpleexample/hashset/TreeSet.java" />
+        <option value="$PROJECT_DIR$/src/simpleexample/hashset/TreeSetExample.java" />
       </list>
     </option>
   </component>
@@ -282,7 +281,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.HashSetExample">
+  <component name="RunManager" selected="Application.TreeSetExample">
     <configuration name="ComparatorExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="simpleexample.sorting.comparaotor.ComparatorExample" />
       <module name="javacollections" />
@@ -335,12 +334,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SortingUsingCollectionsClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="simpleexample.sorting.comparable.SortingUsingCollectionsClass" />
+    <configuration name="TreeSetExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="simpleexample.hashset.TreeSetExample" />
       <module name="javacollections" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="simpleexample.sorting.comparable.*" />
+          <option name="PATTERN" value="simpleexample.hashset.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -350,11 +349,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TreeSetExample" />
         <item itemvalue="Application.HashSetExample" />
         <item itemvalue="Application.ComparatorExample" />
         <item itemvalue="Application.EmployeeSortingUsingNameProperty" />
         <item itemvalue="Application.SortingCustomObjectUsingComparable" />
-        <item itemvalue="Application.SortingUsingCollectionsClass" />
       </list>
     </recent_temporary>
   </component>
@@ -393,12 +392,12 @@
       <window_info id="Favorites" order="6" side_tool="true" weight="0.32908913" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.22799097" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.22799097" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3295711" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3295711" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3295711" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.3295711" />
@@ -776,8 +775,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/simpleexample/hashset/LinkedSetExample.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
+        <state relative-caret-position="83">
           <caret line="27" column="45" selection-start-line="27" selection-start-column="45" selection-end-line="27" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/simpleexample/hashset/TreeSetExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="15" column="36" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
