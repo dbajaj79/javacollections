@@ -2,8 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ea09e3f9-7518-4ab0-8437-6cf9e5d9cdb2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/simpleexample/sorting/SortingUsingCollectionsClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/simpleexample/model/Color.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/simpleexample/sorting/comparaotor/ComparatorExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/simpleexample/sorting/comparaotor/customcomparator/ColoarIdReverseComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/simpleexample/sorting/comparaotor/customcomparator/ColorIdCompartor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/simpleexample/sorting/comparaotor/customcomparator/ColorNameComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/simpleexample/sorting/comparaotor/customcomparator/ColorNameReverseComparator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javacollections/simpleexample/sorting/EmployeeSortingUsingNameProperty.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javacollections/simpleexample/sorting/SortingCustomObjectUsingComparable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javacollections/simpleexample/sorting/SortingUsingCollectionsClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/simpleexample/sorting/EmployeeSortingUsingNameProperty.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simpleexample/sorting/comparable/EmployeeSortingUsingNameProperty.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/simpleexample/sorting/SortingCustomObjectUsingComparable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simpleexample/sorting/comparable/SortingCustomObjectUsingComparable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/simpleexample/sorting/SortingUsingCollectionsClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simpleexample/sorting/comparable/SortingUsingCollectionsClass.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,85 +32,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/simpleexample/arraylist/cursors/examplesIteratorCursor/RemoveOddNumberUsingIterator.java">
+        <entry file="file://$PROJECT_DIR$/src/simpleexample/sorting/comparable/SortingUsingCollectionsClass.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="14" column="42" selection-start-line="14" selection-start-column="42" selection-end-line="14" selection-end-column="42" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/simpleexample/arraylist/cursors/examplesIteratorCursor/IteratorCursor.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="18" selection-start-line="18" selection-end-line="18" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/simpleexample/arraylist/cursors/examplesoflistiterator/ListIteratorCursor.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/simpleexample/arraylist/cursors/examplesoflistiterator/AddRemovAndReplaceUsingListItrator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="527">
-              <caret line="32" selection-start-line="32" selection-end-line="32" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/simpleexample/arraylist/cursors/GetAllElementUsingThreeCursors.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="918">
-              <caret line="54" column="9" selection-start-line="54" selection-start-column="9" selection-end-line="54" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/simpleexample/arraylist/StackExamaple.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/simpleexample/linkedlist/ExampleLinkedList.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="30" selection-start-line="30" selection-end-line="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/simpleexample/linkedlist/ReadingDataFromLinekedListUsingGet.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="51" selection-start-line="45" selection-start-column="19" selection-end-line="51" />
+            <state relative-caret-position="83">
+              <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -108,10 +44,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/simpleexample/sorting/SortingUsingCollectionsClass.java">
+        <entry file="file://$PROJECT_DIR$/src/simpleexample/sorting/comparaotor/ComparatorExample.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="260">
-              <caret line="56" column="35" selection-start-line="56" selection-start-column="35" selection-end-line="56" selection-end-column="35" />
+              <caret line="28" column="65" selection-start-line="28" selection-start-column="65" selection-end-line="28" selection-end-column="65" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -120,10 +56,101 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/simpleexample/model/Book.java">
+        <entry file="file://$PROJECT_DIR$/src/simpleexample/sorting/comparaotor/customcomparator/ColorNameReverseComparator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+            <state relative-caret-position="170">
+              <caret line="10" column="57" lean-forward="true" selection-start-line="10" selection-start-column="57" selection-end-line="10" selection-end-column="57" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#255#256#0" expanded="true" />
+                <element signature="e#279#280#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/simpleexample/sorting/comparaotor/customcomparator/ColoarIdReverseComparator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="260">
+              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/simpleexample/sorting/comparaotor/customcomparator/ColorIdCompartor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="215">
+              <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/simpleexample/sorting/comparaotor/customcomparator/ColorNameComparator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="181">
+              <caret line="11" column="52" selection-start-line="11" selection-start-column="52" selection-end-line="11" selection-end-column="52" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#249#250#0" expanded="true" />
+                <element signature="e#273#274#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/simpleexample/model/Color.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="79">
+              <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+              <folding>
+                <element signature="e#198#199#0" expanded="true" />
+                <element signature="e#223#224#0" expanded="true" />
+                <element signature="e#254#255#0" expanded="true" />
+                <element signature="e#281#282#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/simpleexample/sorting/comparable/EmployeeSortingUsingNameProperty.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="83">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/simpleexample/sorting/comparable/SortingCustomObjectUsingComparable.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="83">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/simpleexample/model/Empolyee1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="24" column="38" selection-start-line="24" selection-start-column="38" selection-end-line="24" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -172,6 +199,16 @@
         <option value="$PROJECT_DIR$/src/simpleexample/model/Book.java" />
         <option value="$PROJECT_DIR$/src/simpleexample/linkedlist/ReadingDataFromLinekedListUsingGet.java" />
         <option value="$PROJECT_DIR$/src/simpleexample/sorting/SortingUsingCollectionsClass.java" />
+        <option value="$PROJECT_DIR$/src/simpleexample/sorting/SortingCustomObjectUsingComparable.java" />
+        <option value="$PROJECT_DIR$/src/simpleexample/model/Empolyee.java" />
+        <option value="$PROJECT_DIR$/src/simpleexample/sorting/EmployeeSortingUsingNameProperty.java" />
+        <option value="$PROJECT_DIR$/src/simpleexample/model/Empolyee1.java" />
+        <option value="$PROJECT_DIR$/src/simpleexample/model/Color.java" />
+        <option value="$PROJECT_DIR$/src/simpleexample/sorting/comparaotor/customcomparator/ColorIdCompartor.java" />
+        <option value="$PROJECT_DIR$/src/simpleexample/sorting/comparaotor/customcomparator/ColorNameComparator.java" />
+        <option value="$PROJECT_DIR$/src/simpleexample/sorting/comparaotor/customcomparator/ColoarIdReverseComparator.java" />
+        <option value="$PROJECT_DIR$/src/simpleexample/sorting/comparaotor/customcomparator/ColorNameReverseComparator.java" />
+        <option value="$PROJECT_DIR$/src/simpleexample/sorting/comparaotor/ComparatorExample.java" />
       </list>
     </option>
   </component>
@@ -189,6 +226,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -219,16 +258,37 @@
               <item name="simpleexample" type="462c0819:PsiDirectoryNode" />
               <item name="sorting" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="javacollections" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javacollections" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="simpleexample" type="462c0819:PsiDirectoryNode" />
+              <item name="sorting" type="462c0819:PsiDirectoryNode" />
+              <item name="comparaotor" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javacollections" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javacollections" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="simpleexample" type="462c0819:PsiDirectoryNode" />
+              <item name="sorting" type="462c0819:PsiDirectoryNode" />
+              <item name="comparaotor" type="462c0819:PsiDirectoryNode" />
+              <item name="customcomparator" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/simpleexample/sorting" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="simpleexample.model" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -242,13 +302,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SortingUsingCollectionsClass">
-    <configuration name="ExampleLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="simpleexample.linkedlist.ExampleLinkedList" />
+  <component name="RunManager" selected="Application.ComparatorExample">
+    <configuration name="ComparatorExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="simpleexample.sorting.comparaotor.ComparatorExample" />
       <module name="javacollections" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="simpleexample.linkedlist.*" />
+          <option name="PATTERN" value="simpleexample.sorting.comparaotor.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -256,12 +316,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GetAllElementUsingThreeCursors" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="simpleexample.arraylist.cursors.GetAllElementUsingThreeCursors" />
+    <configuration name="EmployeeSortingUsingNameProperty" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="simpleexample.sorting.comparable.EmployeeSortingUsingNameProperty" />
       <module name="javacollections" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="simpleexample.arraylist.cursors.*" />
+          <option name="PATTERN" value="simpleexample.sorting.comparable.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -282,12 +342,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SortingUsingCollectionsClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="simpleexample.sorting.SortingUsingCollectionsClass" />
+    <configuration name="SortingCustomObjectUsingComparable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="simpleexample.sorting.comparable.SortingCustomObjectUsingComparable" />
       <module name="javacollections" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="simpleexample.sorting.*" />
+          <option name="PATTERN" value="simpleexample.sorting.comparable.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -295,12 +355,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StackExamaple" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="simpleexample.arraylist.StackExamaple" />
+    <configuration name="SortingUsingCollectionsClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="simpleexample.sorting.comparable.SortingUsingCollectionsClass" />
       <module name="javacollections" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="simpleexample.arraylist.*" />
+          <option name="PATTERN" value="simpleexample.sorting.comparable.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -310,11 +370,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ComparatorExample" />
+        <item itemvalue="Application.EmployeeSortingUsingNameProperty" />
+        <item itemvalue="Application.SortingCustomObjectUsingComparable" />
         <item itemvalue="Application.SortingUsingCollectionsClass" />
         <item itemvalue="Application.ReadingDataFromLinekedListUsingGet" />
-        <item itemvalue="Application.ExampleLinkedList" />
-        <item itemvalue="Application.StackExamaple" />
-        <item itemvalue="Application.GetAllElementUsingThreeCursors" />
       </list>
     </recent_temporary>
   </component>
@@ -344,7 +404,35 @@
     <frame x="-7" y="-7" width="1081" height="575" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4983165" weight="0.27032322" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4983165" visible="true" weight="0.27032322" />
+      <window_info id="Structure" order="1" sideWeight="0.5016835" side_tool="true" weight="0.26444662" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" weight="0.32908913" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.22799097" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3295711" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3295711" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3295711" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4983165" visible="true" weight="0.27032322" />
       <window_info id="Structure" order="1" sideWeight="0.5016835" side_tool="true" weight="0.26444662" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -370,7 +458,7 @@
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
-    </layout>
+    </layout-to-restore>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/simpleexample/arraylist/IntializingArrayList.java">
@@ -572,16 +660,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/simpleexample/model/Book.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/simpleexample/linkedlist/ReadingDataFromLinekedListUsingGet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
+        <state relative-caret-position="799">
           <caret line="51" selection-start-line="45" selection-start-column="19" selection-end-line="51" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -589,10 +670,114 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/simpleexample/sorting/SortingUsingCollectionsClass.java">
+    <entry file="file://$PROJECT_DIR$/src/simpleexample/model/Book.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/simpleexample/model/Empolyee.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/simpleexample/model/Empolyee1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="24" column="38" selection-start-line="24" selection-start-column="38" selection-end-line="24" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/simpleexample/sorting/comparable/EmployeeSortingUsingNameProperty.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="83">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/simpleexample/sorting/comparable/SortingCustomObjectUsingComparable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="83">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/simpleexample/sorting/comparable/SortingUsingCollectionsClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="83">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/simpleexample/model/Color.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="79">
+          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+          <folding>
+            <element signature="e#198#199#0" expanded="true" />
+            <element signature="e#223#224#0" expanded="true" />
+            <element signature="e#254#255#0" expanded="true" />
+            <element signature="e#281#282#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/simpleexample/sorting/comparaotor/customcomparator/ColorIdCompartor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/simpleexample/sorting/comparaotor/customcomparator/ColoarIdReverseComparator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="260">
-          <caret line="56" column="35" selection-start-line="56" selection-start-column="35" selection-end-line="56" selection-end-column="35" />
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/simpleexample/sorting/comparaotor/customcomparator/ColorNameComparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="11" column="52" selection-start-line="11" selection-start-column="52" selection-end-line="11" selection-end-column="52" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#249#250#0" expanded="true" />
+            <element signature="e#273#274#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/simpleexample/sorting/comparaotor/customcomparator/ColorNameReverseComparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="57" lean-forward="true" selection-start-line="10" selection-start-column="57" selection-end-line="10" selection-end-column="57" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#255#256#0" expanded="true" />
+            <element signature="e#279#280#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/simpleexample/sorting/comparaotor/ComparatorExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="28" column="65" selection-start-line="28" selection-start-column="65" selection-end-line="28" selection-end-column="65" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
