@@ -2,19 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ea09e3f9-7518-4ab0-8437-6cf9e5d9cdb2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/simpleexample/setexamples/hashset/PrintHashSetElementsUsinIterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/simpleexample/setexamples/linkedset/PrintingLinkedSetUsingIterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/simpleexample/setexamples/treeset/PrintingTreeSetUsingIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/simpleexample/model/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/simpleexample/setexamples/treeset/AnimalNameCompartor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/simpleexample/setexamples/treeset/TreeSetCompartorAsParameter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javacollections/simpleexample/hashset/HashSetExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javacollections/simpleexample/hashset/LinkedSetExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javacollections/simpleexample/hashset/TreeSetExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javacollections/simpleexample/model/Product.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javacollections/simpleexample/model/Product.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/simpleexample/hashset/HashSetExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simpleexample/setexamples/hashset/HashSetExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/simpleexample/hashset/LinkedSetExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simpleexample/setexamples/linkedset/LinkedSetExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/simpleexample/hashset/TreeSetExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simpleexample/setexamples/treeset/TreeSetExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/simpleexample/model/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simpleexample/model/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/simpleexample/model/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simpleexample/model/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javacollections/simpleexample/model/Empolyee.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javacollections/simpleexample/model/Empolyee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javacollections/simpleexample/setexamples/treeset/TreeSetExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javacollections/simpleexample/setexamples/treeset/TreeSetExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/simpleexample/model/Empolyee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simpleexample/model/Empolyee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/simpleexample/setexamples/treeset/TreeSetExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simpleexample/setexamples/treeset/TreeSetExample.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -32,48 +27,82 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/simpleexample/sorting/comparaotor/ComparatorExample.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="42" selection-start-column="42" selection-end-column="42" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/simpleexample/setexamples/hashset/HashSetExample.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="6" selection-start-line="6" selection-end-line="17" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/simpleexample/setexamples/linkedset/LinkedSetExample.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="98">
-              <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/simpleexample/setexamples/treeset/TreeSetExample.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="98">
-              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            <state relative-caret-position="153">
+              <caret line="9" column="21" lean-forward="true" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
               <folding>
                 <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/simpleexample/setexamples/treeset/AnimalNameCompartor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="185">
+              <caret line="11" column="50" selection-start-line="11" selection-start-column="50" selection-end-line="11" selection-end-column="50" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#273#274#0" expanded="true" />
+                <element signature="e#297#298#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/simpleexample/setexamples/treeset/TreeSetCompartorAsParameter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="55">
+              <caret line="7" column="2" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/simpleexample/model/Empolyee.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
+              <folding>
+                <element signature="e#228#229#0" expanded="true" />
+                <element signature="e#253#254#0" expanded="true" />
+                <element signature="e#286#287#0" expanded="true" />
+                <element signature="e#314#315#0" expanded="true" />
+                <element signature="e#345#346#0" expanded="true" />
+                <element signature="e#372#373#0" expanded="true" />
+                <element signature="e#412#413#0" expanded="true" />
+                <element signature="e#444#445#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/simpleexample/model/Animal.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="11" lean-forward="true" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
+              <folding>
+                <element signature="e#501#502#0" expanded="true" />
+                <element signature="e#526#527#0" expanded="true" />
+                <element signature="e#559#560#0" expanded="true" />
+                <element signature="e#587#588#0" expanded="true" />
+                <element signature="e#619#620#0" expanded="true" />
+                <element signature="e#647#648#0" expanded="true" />
+                <element signature="e#689#690#0" expanded="true" />
+                <element signature="e#723#724#0" expanded="true" />
+                <element signature="e#754#755#0" expanded="true" />
+                <element signature="e#781#782#0" expanded="true" />
+                <element signature="e#821#822#0" expanded="true" />
+                <element signature="e#853#854#0" expanded="true" />
+                <element signature="e#905#906#0" expanded="true" />
+                <element signature="e#945#946#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -82,37 +111,10 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/simpleexample/setexamples/treeset/PrintingTreeSetUsingIterator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="20" column="40" selection-start-line="20" selection-start-column="40" selection-end-line="20" selection-end-column="40" />
+            <state relative-caret-position="243">
+              <caret line="20" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="20" />
               <folding>
                 <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/simpleexample/model/Person.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="260">
-              <caret line="60" column="53" selection-start-line="60" selection-start-column="53" selection-end-line="60" selection-end-column="53" />
-              <folding>
-                <element signature="e#372#373#0" expanded="true" />
-                <element signature="e#399#400#0" expanded="true" />
-                <element signature="e#439#440#0" expanded="true" />
-                <element signature="e#471#472#0" expanded="true" />
-                <element signature="e#503#504#0" expanded="true" />
-                <element signature="e#531#532#0" expanded="true" />
-                <element signature="e#573#574#0" expanded="true" />
-                <element signature="e#607#608#0" expanded="true" />
-                <element signature="e#639#640#0" expanded="true" />
-                <element signature="e#667#668#0" expanded="true" />
-                <element signature="e#709#710#0" expanded="true" />
-                <element signature="e#743#744#0" expanded="true" />
-                <element signature="e#774#775#0" expanded="true" />
-                <element signature="e#801#802#0" expanded="true" />
-                <element signature="e#841#842#0" expanded="true" />
-                <element signature="e#873#874#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -121,11 +123,10 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/simpleexample/setexamples/hashset/PrintHashSetElementsUsinIterator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="98">
+            <state relative-caret-position="68">
               <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#221#228#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -134,8 +135,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/simpleexample/setexamples/linkedset/PrintingLinkedSetUsingIterator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="10" column="28" lean-forward="true" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
+            <state relative-caret-position="119">
+              <caret line="10" column="28" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -146,12 +147,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/simpleexample/model/Product.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="115">
-              <caret line="18" column="27" lean-forward="true" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
-              <folding>
-                <element signature="e#389#390#0" expanded="true" />
-                <element signature="e#416#417#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="306">
+              <caret line="18" column="27" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -159,12 +156,12 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/simpleexample/sorting/comparaotor/customcomparator/ColorNameReverseComparator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
+            <state relative-caret-position="119">
               <caret line="10" column="52" selection-start-line="10" selection-start-column="52" selection-end-line="10" selection-end-column="52" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#255#256#0" expanded="true" />
-                <element signature="e#279#280#0" expanded="true" />
+                <element signature="e#314#315#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -186,8 +183,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/simpleexample/IntializingArrayList.java" />
-        <option value="$PROJECT_DIR$/src/simpleexample/ArrayListWithGenericAndWithoutTypeSafety.java" />
         <option value="$PROJECT_DIR$/src/simpleexample/model/CosntructorsofArraysList.java" />
         <option value="$PROJECT_DIR$/src/simpleexample/arraylist/IntializingArrayList.java" />
         <option value="$PROJECT_DIR$/src/simpleexample/arraylist/methodsexample/AddAndRemoveSingleObject.java" />
@@ -213,7 +208,6 @@
         <option value="$PROJECT_DIR$/src/simpleexample/linkedlist/ReadingDataFromLinekedListUsingGet.java" />
         <option value="$PROJECT_DIR$/src/simpleexample/sorting/SortingUsingCollectionsClass.java" />
         <option value="$PROJECT_DIR$/src/simpleexample/sorting/SortingCustomObjectUsingComparable.java" />
-        <option value="$PROJECT_DIR$/src/simpleexample/model/Empolyee.java" />
         <option value="$PROJECT_DIR$/src/simpleexample/sorting/EmployeeSortingUsingNameProperty.java" />
         <option value="$PROJECT_DIR$/src/simpleexample/model/Empolyee1.java" />
         <option value="$PROJECT_DIR$/src/simpleexample/model/Color.java" />
@@ -232,12 +226,18 @@
         <option value="$PROJECT_DIR$/src/simpleexample/setexamples/PrintHashSetElementsUsinIterator.java" />
         <option value="$PROJECT_DIR$/src/simpleexample/setexamples/linkedset/PrintingLinkedSetUsingIterator.java" />
         <option value="$PROJECT_DIR$/src/simpleexample/model/Product.java" />
-        <option value="$PROJECT_DIR$/src/simpleexample/setexamples/treeset/PrintingTreeSetUsingIterator.java" />
         <option value="$PROJECT_DIR$/src/simpleexample/model/Person.java" />
+        <option value="$PROJECT_DIR$/src/simpleexample/setexamples/treeset/PrintingTreeSetUsingIterator.java" />
+        <option value="$PROJECT_DIR$/src/simpleexample/setexamples/treeset/TreeSetExample.java" />
+        <option value="$PROJECT_DIR$/src/simpleexample/model/Empolyee.java" />
+        <option value="$PROJECT_DIR$/src/simpleexample/model/Animal.java" />
+        <option value="$PROJECT_DIR$/src/simpleexample/setexamples/treeset/EmployeeNameCompartor.java" />
+        <option value="$PROJECT_DIR$/src/simpleexample/setexamples/treeset/AnimalNameCompartor.java" />
+        <option value="$PROJECT_DIR$/src/simpleexample/setexamples/treeset/TreeSetCompartorAsParameter.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="474" />
     <option name="y" value="195" />
     <option name="width" value="1344" />
@@ -252,7 +252,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -281,6 +280,13 @@
               <item name="javacollections" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="simpleexample" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javacollections" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javacollections" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="simpleexample" type="462c0819:PsiDirectoryNode" />
               <item name="setexamples" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -295,6 +301,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -318,20 +325,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.PrintingTreeSetUsingIterator">
-    <configuration name="HashSetExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="simpleexample.setexamples.hashset.HashSetExample" />
-      <module name="javacollections" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="simpleexample.setexamples.linkedset.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.TreeSetCompartorAsParameter">
     <configuration name="PrintHashSetElementsUsinIterator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="simpleexample.setexamples.hashset.PrintHashSetElementsUsinIterator" />
       <module name="javacollections" />
@@ -371,6 +365,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TreeSetCompartorAsParameter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="simpleexample.setexamples.treeset.TreeSetCompartorAsParameter" />
+      <module name="javacollections" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="simpleexample.setexamples.treeset.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TreeSetExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="simpleexample.setexamples.treeset.TreeSetExample" />
       <module name="javacollections" />
@@ -386,11 +393,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TreeSetCompartorAsParameter" />
         <item itemvalue="Application.PrintingTreeSetUsingIterator" />
         <item itemvalue="Application.PrintingLinkedSetUsingIterator" />
         <item itemvalue="Application.PrintHashSetElementsUsinIterator" />
         <item itemvalue="Application.TreeSetExample" />
-        <item itemvalue="Application.HashSetExample" />
       </list>
     </recent_temporary>
   </component>
@@ -417,10 +424,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1081" height="575" extended-state="6" />
+    <frame x="-7" y="-7" width="1081" height="575" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4983165" weight="0.27032322" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4983165" visible="true" weight="0.27032322" />
       <window_info id="Structure" order="1" sideWeight="0.5016835" side_tool="true" weight="0.26444662" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -658,9 +665,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/simpleexample/model/Empolyee.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/simpleexample/model/Empolyee1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
@@ -743,18 +747,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/simpleexample/sorting/comparaotor/customcomparator/ColorNameReverseComparator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="52" selection-start-line="10" selection-start-column="52" selection-end-line="10" selection-end-column="52" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#255#256#0" expanded="true" />
-            <element signature="e#279#280#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/simpleexample/sorting/comparaotor/ComparatorExample.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -767,7 +759,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/simpleexample/setexamples/hashset/HashSetExample.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
+        <state relative-caret-position="68">
           <caret line="6" selection-start-line="6" selection-end-line="17" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -777,60 +769,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/simpleexample/setexamples/linkedset/LinkedSetExample.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="98">
+        <state relative-caret-position="255">
           <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/simpleexample/setexamples/hashset/PrintHashSetElementsUsinIterator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="98">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#221#228#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/simpleexample/setexamples/linkedset/PrintingLinkedSetUsingIterator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="10" column="28" lean-forward="true" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/simpleexample/model/Product.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="18" column="27" lean-forward="true" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
-          <folding>
-            <element signature="e#389#390#0" expanded="true" />
-            <element signature="e#416#417#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/simpleexample/setexamples/treeset/TreeSetExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="98">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/simpleexample/setexamples/treeset/PrintingTreeSetUsingIterator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="20" column="40" selection-start-line="20" selection-start-column="40" selection-end-line="20" selection-end-column="40" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -839,25 +779,128 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/simpleexample/model/Person.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
+        <state relative-caret-position="748">
           <caret line="60" column="53" selection-start-line="60" selection-start-column="53" selection-end-line="60" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/simpleexample/setexamples/hashset/PrintHashSetElementsUsinIterator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
           <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/simpleexample/setexamples/linkedset/PrintingLinkedSetUsingIterator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="10" column="28" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/simpleexample/model/Product.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="27" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/simpleexample/sorting/comparaotor/customcomparator/ColorNameReverseComparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="10" column="52" selection-start-line="10" selection-start-column="52" selection-end-line="10" selection-end-column="52" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#255#256#0" expanded="true" />
+            <element signature="e#314#315#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/simpleexample/setexamples/treeset/TreeSetExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="21" lean-forward="true" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/simpleexample/setexamples/treeset/PrintingTreeSetUsingIterator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="20" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/simpleexample/model/Empolyee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
+          <folding>
+            <element signature="e#228#229#0" expanded="true" />
+            <element signature="e#253#254#0" expanded="true" />
+            <element signature="e#286#287#0" expanded="true" />
+            <element signature="e#314#315#0" expanded="true" />
+            <element signature="e#345#346#0" expanded="true" />
             <element signature="e#372#373#0" expanded="true" />
-            <element signature="e#399#400#0" expanded="true" />
-            <element signature="e#439#440#0" expanded="true" />
-            <element signature="e#471#472#0" expanded="true" />
-            <element signature="e#503#504#0" expanded="true" />
-            <element signature="e#531#532#0" expanded="true" />
-            <element signature="e#573#574#0" expanded="true" />
-            <element signature="e#607#608#0" expanded="true" />
-            <element signature="e#639#640#0" expanded="true" />
-            <element signature="e#667#668#0" expanded="true" />
-            <element signature="e#709#710#0" expanded="true" />
-            <element signature="e#743#744#0" expanded="true" />
-            <element signature="e#774#775#0" expanded="true" />
-            <element signature="e#801#802#0" expanded="true" />
-            <element signature="e#841#842#0" expanded="true" />
-            <element signature="e#873#874#0" expanded="true" />
+            <element signature="e#412#413#0" expanded="true" />
+            <element signature="e#444#445#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/simpleexample/model/Animal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="11" lean-forward="true" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
+          <folding>
+            <element signature="e#501#502#0" expanded="true" />
+            <element signature="e#526#527#0" expanded="true" />
+            <element signature="e#559#560#0" expanded="true" />
+            <element signature="e#587#588#0" expanded="true" />
+            <element signature="e#619#620#0" expanded="true" />
+            <element signature="e#647#648#0" expanded="true" />
+            <element signature="e#689#690#0" expanded="true" />
+            <element signature="e#723#724#0" expanded="true" />
+            <element signature="e#754#755#0" expanded="true" />
+            <element signature="e#781#782#0" expanded="true" />
+            <element signature="e#821#822#0" expanded="true" />
+            <element signature="e#853#854#0" expanded="true" />
+            <element signature="e#905#906#0" expanded="true" />
+            <element signature="e#945#946#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/simpleexample/setexamples/treeset/AnimalNameCompartor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="11" column="50" selection-start-line="11" selection-start-column="50" selection-end-line="11" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#273#274#0" expanded="true" />
+            <element signature="e#297#298#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/simpleexample/setexamples/treeset/TreeSetCompartorAsParameter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="55">
+          <caret line="7" column="2" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
