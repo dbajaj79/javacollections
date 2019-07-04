@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ea09e3f9-7518-4ab0-8437-6cf9e5d9cdb2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/simpleexample/treeset/TreesetWithSortedSetAsParameter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/simpleexample/SerialzationProcess/SerializationDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/simpleexample/cloning/Cloning.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/simpleexample/cloning/CloningArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/simpleexample/cloning/CloningLinekedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/simpleexample/model/School.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javacollections/simpleexample/setexamples/treeset/ReversingStringValueInTreeSet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javacollections/simpleexample/setexamples/treeset/ReversingStringValueInTreeSet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/simpleexample/setexamples/treeset/ReversingStringValueInTreeSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simpleexample/setexamples/treeset/ReversingStringValueInTreeSet.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,27 +25,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/simpleexample/setexamples/treeset/TreeSetCompartorAsParameter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/simpleexample/setexamples/treeset/StringCompartor.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="49" selection-start-line="5" selection-start-column="49" selection-end-line="5" selection-end-column="49" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/simpleexample/setexamples/treeset/ReversingStringValueInTreeSet.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="215">
@@ -52,11 +33,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/simpleexample/treeset/TreesetWithSortedSetAsParameter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="260">
-              <caret line="29" column="35" selection-start-line="29" selection-start-column="35" selection-end-line="29" selection-end-column="35" />
+            <state relative-caret-position="96">
+              <caret line="33" column="5" lean-forward="true" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -65,28 +46,49 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/simpleexample/setexamples/treeset/StringCompartorOption2.java">
+        <entry file="file://$PROJECT_DIR$/src/simpleexample/cloning/Cloning.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="147">
+              <caret line="23" column="13" lean-forward="true" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/simpleexample/setexamples/treeset/IntegerCompartor.java">
+        <entry file="file://$PROJECT_DIR$/src/simpleexample/cloning/CloningArrayList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" selection-start-line="3" selection-end-line="8" />
+            <state relative-caret-position="226">
+              <caret line="20" column="35" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/simpleexample/setexamples/treeset/ReversingIntegerValueInTreeSet.java">
+        <entry file="file://$PROJECT_DIR$/src/simpleexample/cloning/CloningLinekedList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="59" selection-start-line="12" selection-start-column="59" selection-end-line="12" selection-end-column="59" />
+            <state relative-caret-position="260">
+              <caret line="16" column="38" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/simpleexample/SerialzationProcess/SerializationDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="260">
+              <caret line="27" column="19" lean-forward="true" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/simpleexample/model/School.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="98">
+              <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -148,11 +150,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/simpleexample/arraylist/methodsexample/RemoveAllAndRetainAll.java" />
-        <option value="$PROJECT_DIR$/src/simpleexample/arraylist/methodsexample/SwappingAndSubListing.java" />
-        <option value="$PROJECT_DIR$/src/simpleexample/arraylist/methodsexample/ConversionFromArrayToCollection.java" />
-        <option value="$PROJECT_DIR$/src/simpleexample/arraylist/methodsexample/AddElementOnGivenIndexAndReplaceElement.java" />
-        <option value="$PROJECT_DIR$/src/simpleexample/arraylist/cursors/EnumerationCursor.java" />
         <option value="$PROJECT_DIR$/src/simpleexample/arraylist/cursors/IteratorCursor.java" />
         <option value="$PROJECT_DIR$/src/simpleexample/arraylist/cursors/ListIteratorCursor.java" />
         <option value="$PROJECT_DIR$/src/simpleexample/arraylist/cursors/examplesIteratorCursor/RemoveElement.java" />
@@ -199,6 +196,11 @@
         <option value="$PROJECT_DIR$/src/simpleexample/setexamples/treeset/ReversingIntegerValueInTreeSet.java" />
         <option value="$PROJECT_DIR$/src/simpleexample/setexamples/treeset/ReversingStringValueInTreeSet.java" />
         <option value="$PROJECT_DIR$/src/simpleexample/treeset/TreesetWithSortedSetAsParameter.java" />
+        <option value="$PROJECT_DIR$/src/simpleexample/cloning/Cloning.java" />
+        <option value="$PROJECT_DIR$/src/simpleexample/cloning/CloningArrayList.java" />
+        <option value="$PROJECT_DIR$/src/simpleexample/cloning/CloningLinekedList.java" />
+        <option value="$PROJECT_DIR$/src/simpleexample/model/School.java" />
+        <option value="$PROJECT_DIR$/src/simpleexample/SerialzationProcess/SerializationDemo.java" />
       </list>
     </option>
   </component>
@@ -245,7 +247,7 @@
               <item name="javacollections" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="simpleexample" type="462c0819:PsiDirectoryNode" />
-              <item name="treeset" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -276,13 +278,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TreesetWithSortedSetAsParameter">
-    <configuration name="PrintingTreeSetUsingIterator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="simpleexample.setexamples.treeset.PrintingTreeSetUsingIterator" />
+  <component name="RunManager" selected="Application.SerializationDemo">
+    <configuration name="Cloning" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="simpleexample.cloning.Cloning" />
       <module name="javacollections" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="simpleexample.setexamples.treeset.*" />
+          <option name="PATTERN" value="simpleexample.cloning.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -290,12 +292,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReversingIntegerValueInTreeSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="simpleexample.setexamples.treeset.ReversingIntegerValueInTreeSet" />
+    <configuration name="CloningArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="simpleexample.cloning.CloningArrayList" />
       <module name="javacollections" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="simpleexample.setexamples.treeset.*" />
+          <option name="PATTERN" value="simpleexample.cloning.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -303,12 +305,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReversingStringValueInTreeSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="simpleexample.setexamples.treeset.ReversingStringValueInTreeSet" />
+    <configuration name="CloningLinekedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="simpleexample.cloning.CloningLinekedList" />
       <module name="javacollections" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="simpleexample.setexamples.treeset.*" />
+          <option name="PATTERN" value="simpleexample.cloning.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -316,12 +318,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TreeSetCompartorAsParameter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="simpleexample.setexamples.treeset.TreeSetCompartorAsParameter" />
+    <configuration name="SerializationDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="simpleexample.SerialzationProcess.SerializationDemo" />
       <module name="javacollections" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="simpleexample.setexamples.treeset.*" />
+          <option name="PATTERN" value="simpleexample.SerialzationProcess.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -344,11 +346,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SerializationDemo" />
+        <item itemvalue="Application.CloningLinekedList" />
+        <item itemvalue="Application.CloningArrayList" />
+        <item itemvalue="Application.Cloning" />
         <item itemvalue="Application.TreesetWithSortedSetAsParameter" />
-        <item itemvalue="Application.ReversingStringValueInTreeSet" />
-        <item itemvalue="Application.ReversingIntegerValueInTreeSet" />
-        <item itemvalue="Application.TreeSetCompartorAsParameter" />
-        <item itemvalue="Application.PrintingTreeSetUsingIterator" />
       </list>
     </recent_temporary>
   </component>
@@ -435,47 +437,6 @@
     </layout-to-restore>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/simpleexample/arraylist/IntializingArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/simpleexample/arraylist/ArrayListWithGenericAndWithoutTypeSafety.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/simpleexample/arraylist/methodsexample/ContainAndContainsAll.kt" />
-    <entry file="file://$PROJECT_DIR$/src/simpleexample/arraylist/methodsexample/SwappingAndSubListing.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="20" column="79" selection-start-line="20" selection-start-column="79" selection-end-line="20" selection-end-column="79" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/simpleexample/arraylist/methodsexample/ConversionFromArrayToCollection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/simpleexample/arraylist/methodsexample/AddElementOnGivenIndexAndReplaceElement.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
@@ -886,8 +847,46 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/simpleexample/treeset/TreesetWithSortedSetAsParameter.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="33" column="5" lean-forward="true" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/simpleexample/cloning/Cloning.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="23" column="13" lean-forward="true" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/simpleexample/cloning/CloningArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="20" column="35" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/simpleexample/cloning/CloningLinekedList.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="260">
-          <caret line="29" column="35" selection-start-line="29" selection-start-column="35" selection-end-line="29" selection-end-column="35" />
+          <caret line="16" column="38" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/simpleexample/model/School.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="98">
+          <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/simpleexample/SerialzationProcess/SerializationDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="27" column="19" lean-forward="true" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
