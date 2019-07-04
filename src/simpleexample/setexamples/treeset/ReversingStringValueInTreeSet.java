@@ -22,7 +22,6 @@ public class ReversingStringValueInTreeSet {
         names.add("n");
         System.out.println(names);
         System.out.println("Reversing Values using Option 2:");
-
         TreeSet<String>names1 = new TreeSet<>(new StringCompartor());
         names1.add("J");
         names1.add("A");
@@ -33,6 +32,5 @@ public class ReversingStringValueInTreeSet {
         names1.add("L");
         names1.add("S");
         System.out.println(names1);
-
     }
 }
