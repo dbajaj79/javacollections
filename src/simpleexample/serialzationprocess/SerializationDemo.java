@@ -1,4 +1,4 @@
-package simpleexample.SerialzationProcess;
+package simpleexample.serialzationprocess;
 
 import simpleexample.model.School;
 
