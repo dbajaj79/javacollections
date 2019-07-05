@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ea09e3f9-7518-4ab0-8437-6cf9e5d9cdb2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/simpleexample/collection/map/hashset/HashSetDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/simpleexample/collection/map/hashMap/PrintKeysEntriesAndValuesUsingIterator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javacollections/simpleexample/collection/map/hashset/HashSetDemo.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,8 +24,20 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/simpleexample/collection/map/MapDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="226">
-              <caret line="40" column="64" selection-start-line="40" selection-start-column="64" selection-end-line="40" selection-end-column="64" />
+            <state relative-caret-position="158">
+              <caret line="36" selection-start-line="36" selection-end-line="36" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/simpleexample/collection/map/hashMap/HashMapDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="174">
+              <caret line="39" column="9" selection-start-line="39" selection-start-column="9" selection-end-line="39" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -33,10 +46,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/simpleexample/collection/map/hashset/HashSetDemo.java">
+        <entry file="file://$PROJECT_DIR$/src/simpleexample/collection/map/hashMap/PrintKeysEntriesAndValuesUsingIterator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="124">
-              <caret line="38" column="66" selection-start-line="38" selection-start-column="66" selection-end-line="38" selection-end-column="66" />
+            <state relative-caret-position="136">
+              <caret line="8" column="2" lean-forward="true" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -60,9 +73,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/simpleexample/arraylist/StackExamaple.java" />
-        <option value="$PROJECT_DIR$/src/simpleexample/linkedlist/ExampleLinkedList.java" />
-        <option value="$PROJECT_DIR$/src/simpleexample/model/Book.java" />
         <option value="$PROJECT_DIR$/src/simpleexample/linkedlist/ReadingDataFromLinekedListUsingGet.java" />
         <option value="$PROJECT_DIR$/src/simpleexample/sorting/SortingUsingCollectionsClass.java" />
         <option value="$PROJECT_DIR$/src/simpleexample/sorting/SortingCustomObjectUsingComparable.java" />
@@ -111,12 +121,15 @@
         <option value="$PROJECT_DIR$/src/simpleexample/collection/arraylist/cursors/EnumerationCursor.java" />
         <option value="$PROJECT_DIR$/src/simpleexample/collection/map/MapDemo.java" />
         <option value="$PROJECT_DIR$/src/simpleexample/collection/map/hashset/HashSetDemo.java" />
+        <option value="$PROJECT_DIR$/src/simpleexample/collection/map/hashMap/HashSetDemo.java" />
+        <option value="$PROJECT_DIR$/src/simpleexample/collection/map/hashMap/HashMapDemo.java" />
+        <option value="$PROJECT_DIR$/src/simpleexample/collection/map/hashMap/PrintKeysEntriesAndValuesUsingIterator.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="474" />
-    <option name="y" value="195" />
+    <option name="x" value="142" />
+    <option name="y" value="175" />
     <option name="width" value="1344" />
     <option name="height" value="522" />
   </component>
@@ -175,7 +188,7 @@
               <item name="simpleexample" type="462c0819:PsiDirectoryNode" />
               <item name="collection" type="462c0819:PsiDirectoryNode" />
               <item name="map" type="462c0819:PsiDirectoryNode" />
-              <item name="hashset" type="462c0819:PsiDirectoryNode" />
+              <item name="hashMap" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -208,7 +221,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.HashSetDemo">
+  <component name="RunManager" selected="Application.PrintKeysEntriesAndValuesUsingIterator">
     <configuration name="GFG" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="simpleexample.arraylist.examples.GFG" />
       <module name="javacollections" />
@@ -222,12 +235,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HashSetDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="simpleexample.collection.map.hashset.HashSetDemo" />
+    <configuration name="HashMapDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="simpleexample.collection.map.hashMap.HashMapDemo" />
       <module name="javacollections" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="simpleexample.collection.map.hashset.*" />
+          <option name="PATTERN" value="simpleexample.collection.map.hashMap.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -261,12 +274,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SerialiazationOfArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="simpleexample.serialzationprocess.SerialiazationOfArrayList" />
+    <configuration name="PrintKeysEntriesAndValuesUsingIterator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="simpleexample.collection.map.hashMap.PrintKeysEntriesAndValuesUsingIterator" />
       <module name="javacollections" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="simpleexample.serialzationprocess.*" />
+          <option name="PATTERN" value="simpleexample.collection.map.hashMap.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -276,11 +289,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.HashSetDemo" />
+        <item itemvalue="Application.PrintKeysEntriesAndValuesUsingIterator" />
+        <item itemvalue="Application.HashMapDemo" />
         <item itemvalue="Application.MapDemo" />
         <item itemvalue="Application.HowToRemoveDuplicatesFromArrayList" />
         <item itemvalue="Application.GFG" />
-        <item itemvalue="Application.SerialiazationOfArrayList" />
       </list>
     </recent_temporary>
   </component>
@@ -310,7 +323,7 @@
     <frame x="-7" y="-7" width="1081" height="575" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4983165" visible="true" weight="0.2820764" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4983165" weight="0.2820764" />
       <window_info id="Structure" order="1" sideWeight="0.5016835" side_tool="true" weight="0.26444662" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -367,13 +380,6 @@
     </layout-to-restore>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/simpleexample/model/Book.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/simpleexample/model/Empolyee1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
@@ -754,18 +760,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/simpleexample/collection/map/MapDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="226">
-          <caret line="40" column="64" selection-start-line="40" selection-start-column="64" selection-end-line="40" selection-end-column="64" />
+        <state relative-caret-position="158">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/simpleexample/collection/map/hashset/HashSetDemo.java">
+    <entry file="file://$PROJECT_DIR$/src/simpleexample/collection/map/hashMap/HashMapDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="124">
-          <caret line="38" column="66" selection-start-line="38" selection-start-column="66" selection-end-line="38" selection-end-column="66" />
+        <state relative-caret-position="174">
+          <caret line="39" column="9" selection-start-line="39" selection-start-column="9" selection-end-line="39" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/simpleexample/collection/map/hashMap/PrintKeysEntriesAndValuesUsingIterator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="2" lean-forward="true" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
