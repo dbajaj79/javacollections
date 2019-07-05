@@ -2,8 +2,44 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ea09e3f9-7518-4ab0-8437-6cf9e5d9cdb2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/simpleexample/arraylist/examples/HowToRemoveDuplicatesFromArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/simpleexample/collection/list/arraylist/ArrayListWithGenericAndWithoutTypeSafety.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/simpleexample/collection/list/arraylist/IntializingArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/simpleexample/collection/list/arraylist/StackExamaple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/simpleexample/collection/list/arraylist/examples/HowToRemoveDuplicatesFromArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/simpleexample/collection/list/arraylist/examples/ReversingArrayList/ReversingArrayListUsingCollectionsClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/simpleexample/collection/list/arraylist/methodsexample/AddAndRemoveCollectionData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/simpleexample/collection/list/arraylist/methodsexample/AddAndRemoveSingleObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/simpleexample/collection/list/arraylist/methodsexample/AddElementOnGivenIndexAndReplaceElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/simpleexample/collection/list/arraylist/methodsexample/ContainAndContainsAll.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/simpleexample/collection/list/arraylist/methodsexample/ConversionFromArrayToCollection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/simpleexample/collection/list/arraylist/methodsexample/RemoveAllAndRetainAll.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/simpleexample/collection/list/arraylist/methodsexample/SwappingAndSubListing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/simpleexample/collection/list/linkedlist/ExampleLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/simpleexample/collection/list/linkedlist/ReadingDataFromLinekedListUsingGet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/simpleexample/collection/map/MapDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/simpleexample/collection/set/setexamples/hashset/HashSetExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/simpleexample/collection/set/setexamples/hashset/PrintHashSetElementsUsinIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/simpleexample/collection/set/setexamples/linkedset/LinkedSetExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/simpleexample/collection/set/setexamples/linkedset/PrintingLinkedSetUsingIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/simpleexample/collection/set/setexamples/treeset/AnimalNameCompartor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/simpleexample/collection/set/setexamples/treeset/IntegerCompartor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/simpleexample/collection/set/setexamples/treeset/IntegerCompartorOption2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/simpleexample/collection/set/setexamples/treeset/PrintingTreeSetUsingIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/simpleexample/collection/set/setexamples/treeset/ReversingIntegerValueInTreeSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/simpleexample/collection/set/setexamples/treeset/ReversingStringValueInTreeSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/simpleexample/collection/set/setexamples/treeset/StringCompartor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/simpleexample/collection/set/setexamples/treeset/StringCompartorOption2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/simpleexample/collection/set/setexamples/treeset/TreeSetCompartorAsParameter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/simpleexample/collection/set/setexamples/treeset/TreeSetExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/simpleexample/collection/set/treeset/TreesetWithSortedSetAsParameter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/simpleexample/arraylist/cursors/EnumerationCursor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simpleexample/cursors/EnumerationCursor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/simpleexample/arraylist/cursors/GetAllElementUsingThreeCursors.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simpleexample/cursors/GetAllElementUsingThreeCursors.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/simpleexample/arraylist/cursors/examplesIteratorCursor/IteratorCursor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simpleexample/cursors/examplesIteratorCursor/IteratorCursor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/simpleexample/arraylist/cursors/examplesIteratorCursor/RemoveElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simpleexample/cursors/examplesIteratorCursor/RemoveElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/simpleexample/arraylist/cursors/examplesIteratorCursor/RemoveOddNumberUsingIterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simpleexample/cursors/examplesIteratorCursor/RemoveOddNumberUsingIterator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/simpleexample/arraylist/cursors/examplesoflistiterator/AddRemovAndReplaceUsingListItrator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simpleexample/cursors/examplesoflistiterator/AddRemovAndReplaceUsingListItrator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/simpleexample/arraylist/cursors/examplesoflistiterator/ListIteratorCursor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simpleexample/cursors/examplesoflistiterator/ListIteratorCursor.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,104 +56,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/simpleexample/setexamples/treeset/ReversingStringValueInTreeSet.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="215">
-              <caret line="36" selection-start-line="36" selection-end-line="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/simpleexample/treeset/TreesetWithSortedSetAsParameter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="96">
-              <caret line="33" column="5" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/simpleexample/cloning/Cloning.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="147">
-              <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/simpleexample/cloning/CloningArrayList.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="293">
-              <caret line="25" selection-start-line="25" selection-end-line="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/simpleexample/arraylist/examples/HowToRemoveDuplicatesFromArrayList.java">
+        <entry file="file://$PROJECT_DIR$/src/simpleexample/collection/map/MapDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="226">
-              <caret line="30" column="39" selection-start-line="30" selection-start-column="39" selection-end-line="30" selection-end-column="39" />
+            <state relative-caret-position="361">
+              <caret line="37" column="32" selection-start-line="37" selection-start-column="32" selection-end-line="37" selection-end-column="32" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/simpleexample/cloning/CloningLinekedList.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="260">
-              <caret line="16" column="38" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/simpleexample/serialzationprocess/SerializationDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="117">
-              <caret line="29" selection-start-line="29" selection-end-line="29" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/simpleexample/serialzationprocess/SerialiazationOfArrayList.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="33" column="83" selection-start-line="33" selection-start-column="83" selection-end-line="33" selection-end-column="83" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/simpleexample/model/School.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="98">
-              <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/simpleexample/model/Animal.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -138,8 +84,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/simpleexample/arraylist/cursors/examplesIteratorCursor/IteratorCursor.java" />
-        <option value="$PROJECT_DIR$/src/simpleexample/arraylist/cursors/examplesoflistiterator/AddRemovAndReplaceUsingListItrator.java" />
         <option value="$PROJECT_DIR$/src/simpleexample/arraylist/cursors/GetAllElementUsingThreeCursors.java" />
         <option value="$PROJECT_DIR$/src/simpleexample/arraylist/StackExamaple.java" />
         <option value="$PROJECT_DIR$/src/simpleexample/linkedlist/ExampleLinkedList.java" />
@@ -189,6 +133,8 @@
         <option value="$PROJECT_DIR$/src/simpleexample/serialzationprocess/SerialiazationOfArrayList.java" />
         <option value="$PROJECT_DIR$/src/simpleexample/arraylist/examples/GFG.java" />
         <option value="$PROJECT_DIR$/src/simpleexample/arraylist/examples/HowToRemoveDuplicatesFromArrayList.java" />
+        <option value="$PROJECT_DIR$/src/simpleexample/collection/arraylist/cursors/EnumerationCursor.java" />
+        <option value="$PROJECT_DIR$/src/simpleexample/collection/map/MapDemo.java" />
       </list>
     </option>
   </component>
@@ -207,6 +153,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -235,23 +182,33 @@
               <item name="javacollections" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="simpleexample" type="462c0819:PsiDirectoryNode" />
-              <item name="arraylist" type="462c0819:PsiDirectoryNode" />
+              <item name="collection" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javacollections" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javacollections" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="simpleexample" type="462c0819:PsiDirectoryNode" />
+              <item name="collection" type="462c0819:PsiDirectoryNode" />
+              <item name="map" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/simpleexample/setexamples" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/simpleexample/collection" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="simpleexample.setexamples.treeset" />
       <recent name="simpleexample.model" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\DeepakData\javacollections\src\simpleexample\collection" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -266,26 +223,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.HowToRemoveDuplicatesFromArrayList">
-    <configuration name="CloningLinekedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="simpleexample.cloning.CloningLinekedList" />
-      <module name="javacollections" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="simpleexample.cloning.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.MapDemo">
     <configuration name="GFG" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="simpleexample.arraylist.examples.GFG" />
       <module name="javacollections" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="simpleexample.arraylist.examples.*" />
+          <option name="PATTERN" value="simpleexample.linkedlist.arraylist.examples.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -294,11 +238,24 @@
       </method>
     </configuration>
     <configuration name="HowToRemoveDuplicatesFromArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="simpleexample.arraylist.examples.HowToRemoveDuplicatesFromArrayList" />
+      <option name="MAIN_CLASS_NAME" value="simpleexample.linkedlist.arraylist.examples.HowToRemoveDuplicatesFromArrayList" />
       <module name="javacollections" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="simpleexample.arraylist.examples.*" />
+          <option name="PATTERN" value="simpleexample.linkedlist.arraylist.examples.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MapDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="simpleexample.collection.map.MapDemo" />
+      <module name="javacollections" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="simpleexample.collection.map.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -334,11 +291,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MapDemo" />
         <item itemvalue="Application.HowToRemoveDuplicatesFromArrayList" />
         <item itemvalue="Application.GFG" />
         <item itemvalue="Application.SerialiazationOfArrayList" />
         <item itemvalue="Application.SerializationDemo" />
-        <item itemvalue="Application.CloningLinekedList" />
       </list>
     </recent_temporary>
   </component>
@@ -368,7 +325,7 @@
     <frame x="-7" y="-7" width="1081" height="575" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4983165" weight="0.27619982" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4983165" visible="true" weight="0.2820764" />
       <window_info id="Structure" order="1" sideWeight="0.5016835" side_tool="true" weight="0.26444662" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -377,7 +334,7 @@
       <window_info id="Favorites" order="6" side_tool="true" weight="0.32908913" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.22799097" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.22799097" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -425,109 +382,7 @@
     </layout-to-restore>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/simpleexample/arraylist/methodsexample/RemoveAllAndRetainAll.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
-          <caret line="38" selection-start-line="38" selection-end-line="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/simpleexample/arraylist/cursors/EnumerationCursor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="731">
-          <caret line="44" column="8" selection-start-line="44" selection-start-column="8" selection-end-line="44" selection-end-column="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/simpleexample/model/CosntructorsofArraysList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="714">
-          <caret line="42" selection-start-line="42" selection-end-line="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/simpleexample/arraylist/methodsexample/AddAndRemoveCollectionData.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="174">
-          <caret line="24" column="28" selection-start-line="24" selection-start-column="28" selection-end-line="24" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/simpleexample/arraylist/cursors/examplesIteratorCursor/RemoveElement.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/simpleexample/arraylist/cursors/examplesIteratorCursor/RemoveOddNumberUsingIterator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="14" column="42" selection-start-line="14" selection-start-column="42" selection-end-line="14" selection-end-column="42" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/simpleexample/arraylist/cursors/examplesIteratorCursor/IteratorCursor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/simpleexample/arraylist/cursors/examplesoflistiterator/ListIteratorCursor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/simpleexample/arraylist/cursors/examplesoflistiterator/AddRemovAndReplaceUsingListItrator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="32" selection-start-line="32" selection-end-line="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/simpleexample/arraylist/cursors/GetAllElementUsingThreeCursors.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="918">
-          <caret line="54" column="9" selection-start-line="54" selection-start-column="9" selection-end-line="54" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/simpleexample/arraylist/StackExamaple.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/simpleexample/linkedlist/ExampleLinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="30" selection-start-line="30" selection-end-line="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/simpleexample/linkedlist/ReadingDataFromLinekedListUsingGet.java">
+    <entry file="file://$PROJECT_DIR$/src/simpleexample/collection/list/linkedlist/ReadingDataFromLinekedListUsingGet.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="799">
           <caret line="51" selection-start-line="45" selection-start-column="19" selection-end-line="51" />
@@ -548,16 +403,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="24" column="38" selection-start-line="24" selection-start-column="38" selection-end-line="24" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/simpleexample/sorting/comparable/EmployeeSortingUsingNameProperty.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="83">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -636,7 +481,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/simpleexample/setexamples/hashset/HashSetExample.java">
+    <entry file="file://$PROJECT_DIR$/src/simpleexample/collection/set/setexamples/hashset/HashSetExample.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="6" selection-start-line="6" selection-end-line="17" selection-end-column="5" />
@@ -646,7 +491,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/simpleexample/setexamples/linkedset/LinkedSetExample.java">
+    <entry file="file://$PROJECT_DIR$/src/simpleexample/collection/set/setexamples/linkedset/LinkedSetExample.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
@@ -663,7 +508,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/simpleexample/setexamples/hashset/PrintHashSetElementsUsinIterator.java">
+    <entry file="file://$PROJECT_DIR$/src/simpleexample/collection/set/setexamples/hashset/PrintHashSetElementsUsinIterator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
@@ -673,7 +518,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/simpleexample/setexamples/linkedset/PrintingLinkedSetUsingIterator.java">
+    <entry file="file://$PROJECT_DIR$/src/simpleexample/collection/set/setexamples/linkedset/PrintingLinkedSetUsingIterator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="10" column="28" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
@@ -702,7 +547,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/simpleexample/setexamples/treeset/TreeSetExample.java">
+    <entry file="file://$PROJECT_DIR$/src/simpleexample/collection/set/setexamples/treeset/TreeSetExample.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" column="21" lean-forward="true" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
@@ -712,7 +557,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/simpleexample/setexamples/treeset/PrintingTreeSetUsingIterator.java">
+    <entry file="file://$PROJECT_DIR$/src/simpleexample/collection/set/setexamples/treeset/PrintingTreeSetUsingIterator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="243">
           <caret line="20" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="20" />
@@ -722,7 +567,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/simpleexample/setexamples/treeset/AnimalNameCompartor.java">
+    <entry file="file://$PROJECT_DIR$/src/simpleexample/collection/set/setexamples/treeset/AnimalNameCompartor.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="11" column="50" selection-start-line="11" selection-start-column="50" selection-end-line="11" selection-end-column="50" />
@@ -732,7 +577,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/simpleexample/setexamples/treeset/TreeSetCompartorAsParameter.java">
+    <entry file="file://$PROJECT_DIR$/src/simpleexample/collection/set/setexamples/treeset/TreeSetCompartorAsParameter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
@@ -742,35 +587,35 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/simpleexample/setexamples/treeset/StringCompartor.java">
+    <entry file="file://$PROJECT_DIR$/src/simpleexample/collection/set/setexamples/treeset/StringCompartor.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="49" selection-start-line="5" selection-start-column="49" selection-end-line="5" selection-end-column="49" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/simpleexample/setexamples/treeset/StringCompartorOption2.java">
+    <entry file="file://$PROJECT_DIR$/src/simpleexample/collection/set/setexamples/treeset/StringCompartorOption2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="11" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/simpleexample/setexamples/treeset/IntegerCompartor.java">
+    <entry file="file://$PROJECT_DIR$/src/simpleexample/collection/set/setexamples/treeset/IntegerCompartor.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" selection-start-line="3" selection-end-line="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/simpleexample/setexamples/treeset/ReversingIntegerValueInTreeSet.java">
+    <entry file="file://$PROJECT_DIR$/src/simpleexample/collection/set/setexamples/treeset/ReversingIntegerValueInTreeSet.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="12" column="59" selection-start-line="12" selection-start-column="59" selection-end-line="12" selection-end-column="59" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/simpleexample/setexamples/treeset/IntegerCompartorOption2.java">
+    <entry file="file://$PROJECT_DIR$/src/simpleexample/collection/set/setexamples/treeset/IntegerCompartorOption2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
@@ -798,58 +643,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/simpleexample/model/Animal.java">
+    <entry file="file://$PROJECT_DIR$/src/simpleexample/arraylist/examples/GFG.java" />
+    <entry file="file://$PROJECT_DIR$/src/simpleexample/collection/list/arraylist/examples/HowToRemoveDuplicatesFromArrayList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
+        <state relative-caret-position="204">
+          <caret line="26" column="23" lean-forward="true" selection-start-line="26" selection-start-column="23" selection-end-line="26" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/simpleexample/setexamples/treeset/ReversingStringValueInTreeSet.java">
+    <entry file="file://$PROJECT_DIR$/src/simpleexample/collection/set/setexamples/treeset/ReversingStringValueInTreeSet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="215">
+        <state relative-caret-position="612">
           <caret line="36" selection-start-line="36" selection-end-line="36" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/simpleexample/treeset/TreesetWithSortedSetAsParameter.java">
+    <entry file="file://$PROJECT_DIR$/src/simpleexample/collection/set/treeset/TreesetWithSortedSetAsParameter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
+        <state relative-caret-position="544">
           <caret line="33" column="5" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/simpleexample/cloning/CloningLinekedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="16" column="38" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/simpleexample/model/School.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="98">
-          <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/simpleexample/serialzationprocess/SerialiazationOfArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="33" column="83" selection-start-line="33" selection-start-column="83" selection-end-line="33" selection-end-column="83" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/simpleexample/serialzationprocess/SerializationDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="117">
-          <caret line="29" selection-start-line="29" selection-end-line="29" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -858,29 +673,114 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/simpleexample/cloning/Cloning.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
+        <state relative-caret-position="391">
           <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/simpleexample/arraylist/examples/GFG.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="33" column="23" lean-forward="true" selection-start-line="33" selection-start-column="23" selection-end-line="33" selection-end-column="23" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/simpleexample/cloning/CloningArrayList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="293">
+        <state relative-caret-position="425">
           <caret line="25" selection-start-line="25" selection-end-line="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/simpleexample/arraylist/examples/HowToRemoveDuplicatesFromArrayList.java">
+    <entry file="file://$PROJECT_DIR$/src/simpleexample/cloning/CloningLinekedList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="226">
-          <caret line="30" column="39" selection-start-line="30" selection-start-column="39" selection-end-line="30" selection-end-column="39" />
+        <state relative-caret-position="272">
+          <caret line="16" column="38" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/simpleexample/serialzationprocess/SerializationDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/simpleexample/serialzationprocess/SerialiazationOfArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="33" column="83" selection-start-line="33" selection-start-column="83" selection-end-line="33" selection-end-column="83" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/simpleexample/model/School.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/simpleexample/model/Animal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/simpleexample/collection/list/arraylist/examples/ReversingArrayList/ReversingArrayListUsingCollectionsClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="52" selection-start-line="2" selection-start-column="52" selection-end-line="2" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/simpleexample/sorting/comparable/EmployeeSortingUsingNameProperty.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/simpleexample/collection/arraylist/cursors/examplesIteratorCursor/IteratorCursor.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/simpleexample/collection/list/arraylist/ArrayListWithGenericAndWithoutTypeSafety.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/simpleexample/collection/arraylist/cursors/examplesIteratorCursor/RemoveOddNumberUsingIterator.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/simpleexample/collection/list/arraylist/methodsexample/ContainAndContainsAll.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/simpleexample/collection/list/arraylist/methodsexample/RemoveAllAndRetainAll.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/simpleexample/collection/list/arraylist/methodsexample/AddAndRemoveSingleObject.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/simpleexample/collection/list/arraylist/StackExamaple.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/simpleexample/collection/arraylist/cursors/examplesoflistiterator/ListIteratorCursor.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/simpleexample/collection/arraylist/cursors/GetAllElementUsingThreeCursors.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/simpleexample/collection/arraylist/cursors/EnumerationCursor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/simpleexample/collection/map/MapDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="37" column="32" selection-start-line="37" selection-start-column="32" selection-end-line="37" selection-end-column="32" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
