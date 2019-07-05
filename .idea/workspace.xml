@@ -2,44 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ea09e3f9-7518-4ab0-8437-6cf9e5d9cdb2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/simpleexample/collection/list/arraylist/ArrayListWithGenericAndWithoutTypeSafety.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/simpleexample/collection/list/arraylist/IntializingArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/simpleexample/collection/list/arraylist/StackExamaple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/simpleexample/collection/list/arraylist/examples/HowToRemoveDuplicatesFromArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/simpleexample/collection/list/arraylist/examples/ReversingArrayList/ReversingArrayListUsingCollectionsClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/simpleexample/collection/list/arraylist/methodsexample/AddAndRemoveCollectionData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/simpleexample/collection/list/arraylist/methodsexample/AddAndRemoveSingleObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/simpleexample/collection/list/arraylist/methodsexample/AddElementOnGivenIndexAndReplaceElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/simpleexample/collection/list/arraylist/methodsexample/ContainAndContainsAll.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/simpleexample/collection/list/arraylist/methodsexample/ConversionFromArrayToCollection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/simpleexample/collection/list/arraylist/methodsexample/RemoveAllAndRetainAll.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/simpleexample/collection/list/arraylist/methodsexample/SwappingAndSubListing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/simpleexample/collection/list/linkedlist/ExampleLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/simpleexample/collection/list/linkedlist/ReadingDataFromLinekedListUsingGet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/simpleexample/collection/map/MapDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/simpleexample/collection/set/setexamples/hashset/HashSetExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/simpleexample/collection/set/setexamples/hashset/PrintHashSetElementsUsinIterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/simpleexample/collection/set/setexamples/linkedset/LinkedSetExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/simpleexample/collection/set/setexamples/linkedset/PrintingLinkedSetUsingIterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/simpleexample/collection/set/setexamples/treeset/AnimalNameCompartor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/simpleexample/collection/set/setexamples/treeset/IntegerCompartor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/simpleexample/collection/set/setexamples/treeset/IntegerCompartorOption2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/simpleexample/collection/set/setexamples/treeset/PrintingTreeSetUsingIterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/simpleexample/collection/set/setexamples/treeset/ReversingIntegerValueInTreeSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/simpleexample/collection/set/setexamples/treeset/ReversingStringValueInTreeSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/simpleexample/collection/set/setexamples/treeset/StringCompartor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/simpleexample/collection/set/setexamples/treeset/StringCompartorOption2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/simpleexample/collection/set/setexamples/treeset/TreeSetCompartorAsParameter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/simpleexample/collection/set/setexamples/treeset/TreeSetExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/simpleexample/collection/set/treeset/TreesetWithSortedSetAsParameter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/simpleexample/collection/map/hashset/HashSetDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/simpleexample/arraylist/cursors/EnumerationCursor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simpleexample/cursors/EnumerationCursor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/simpleexample/arraylist/cursors/GetAllElementUsingThreeCursors.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simpleexample/cursors/GetAllElementUsingThreeCursors.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/simpleexample/arraylist/cursors/examplesIteratorCursor/IteratorCursor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simpleexample/cursors/examplesIteratorCursor/IteratorCursor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/simpleexample/arraylist/cursors/examplesIteratorCursor/RemoveElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simpleexample/cursors/examplesIteratorCursor/RemoveElement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/simpleexample/arraylist/cursors/examplesIteratorCursor/RemoveOddNumberUsingIterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simpleexample/cursors/examplesIteratorCursor/RemoveOddNumberUsingIterator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/simpleexample/arraylist/cursors/examplesoflistiterator/AddRemovAndReplaceUsingListItrator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simpleexample/cursors/examplesoflistiterator/AddRemovAndReplaceUsingListItrator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/simpleexample/arraylist/cursors/examplesoflistiterator/ListIteratorCursor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simpleexample/cursors/examplesoflistiterator/ListIteratorCursor.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -56,11 +20,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/simpleexample/collection/map/MapDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="361">
-              <caret line="37" column="32" selection-start-line="37" selection-start-column="32" selection-end-line="37" selection-end-column="32" />
+            <state relative-caret-position="226">
+              <caret line="40" column="64" selection-start-line="40" selection-start-column="64" selection-end-line="40" selection-end-column="64" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/simpleexample/collection/map/hashset/HashSetDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="124">
+              <caret line="38" column="66" selection-start-line="38" selection-start-column="66" selection-end-line="38" selection-end-column="66" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -84,7 +60,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/simpleexample/arraylist/cursors/GetAllElementUsingThreeCursors.java" />
         <option value="$PROJECT_DIR$/src/simpleexample/arraylist/StackExamaple.java" />
         <option value="$PROJECT_DIR$/src/simpleexample/linkedlist/ExampleLinkedList.java" />
         <option value="$PROJECT_DIR$/src/simpleexample/model/Book.java" />
@@ -135,6 +110,7 @@
         <option value="$PROJECT_DIR$/src/simpleexample/arraylist/examples/HowToRemoveDuplicatesFromArrayList.java" />
         <option value="$PROJECT_DIR$/src/simpleexample/collection/arraylist/cursors/EnumerationCursor.java" />
         <option value="$PROJECT_DIR$/src/simpleexample/collection/map/MapDemo.java" />
+        <option value="$PROJECT_DIR$/src/simpleexample/collection/map/hashset/HashSetDemo.java" />
       </list>
     </option>
   </component>
@@ -192,6 +168,15 @@
               <item name="collection" type="462c0819:PsiDirectoryNode" />
               <item name="map" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="javacollections" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javacollections" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="simpleexample" type="462c0819:PsiDirectoryNode" />
+              <item name="collection" type="462c0819:PsiDirectoryNode" />
+              <item name="map" type="462c0819:PsiDirectoryNode" />
+              <item name="hashset" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -223,13 +208,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MapDemo">
+  <component name="RunManager" selected="Application.HashSetDemo">
     <configuration name="GFG" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="simpleexample.arraylist.examples.GFG" />
       <module name="javacollections" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="simpleexample.linkedlist.arraylist.examples.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HashSetDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="simpleexample.collection.map.hashset.HashSetDemo" />
+      <module name="javacollections" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="simpleexample.collection.map.hashset.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -276,26 +274,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SerializationDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="simpleexample.serialzationprocess.SerializationDemo" />
-      <module name="javacollections" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="simpleexample.serialzationprocess.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HashSetDemo" />
         <item itemvalue="Application.MapDemo" />
         <item itemvalue="Application.HowToRemoveDuplicatesFromArrayList" />
         <item itemvalue="Application.GFG" />
         <item itemvalue="Application.SerialiazationOfArrayList" />
-        <item itemvalue="Application.SerializationDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -325,7 +310,7 @@
     <frame x="-7" y="-7" width="1081" height="575" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4983165" visible="true" weight="0.2820764" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4983165" visible="true" weight="0.2820764" />
       <window_info id="Structure" order="1" sideWeight="0.5016835" side_tool="true" weight="0.26444662" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -334,7 +319,7 @@
       <window_info id="Favorites" order="6" side_tool="true" weight="0.32908913" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.22799097" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.22799097" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -382,16 +367,6 @@
     </layout-to-restore>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/simpleexample/collection/list/linkedlist/ReadingDataFromLinekedListUsingGet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="799">
-          <caret line="51" selection-start-line="45" selection-start-column="19" selection-end-line="51" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/simpleexample/model/Book.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -779,8 +754,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/simpleexample/collection/map/MapDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="37" column="32" selection-start-line="37" selection-start-column="32" selection-end-line="37" selection-end-column="32" />
+        <state relative-caret-position="226">
+          <caret line="40" column="64" selection-start-line="40" selection-start-column="64" selection-end-line="40" selection-end-column="64" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/simpleexample/collection/map/hashset/HashSetDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="38" column="66" selection-start-line="38" selection-start-column="66" selection-end-line="38" selection-end-column="66" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
